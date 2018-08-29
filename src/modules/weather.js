@@ -7,7 +7,7 @@ const weather = {
 }
 
 const getWeather = async (zip, longitude) => {
-  const res = await fetch(`${APIBASE}/v1/observations/current`)
+  const res = await fetch(`${APIBASE}/v1/location/${zip}:4:US/observations/current`)
   const body = await res.json()
   
 }

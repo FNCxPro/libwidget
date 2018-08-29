@@ -1,6 +1,6 @@
 {
   "name": "libwidget",
-  "version": "0.1.0",
+  "version": "0.1.0-rc.1",
   "description": "A library that does everything you need for Xen HTML widgets",
   "repository": "https://github.com/FNCxPro/libwidget.git",
   "author": "Seth Stephens",

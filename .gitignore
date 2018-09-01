@@ -74,3 +74,6 @@ typings/
 
 # Dist
 dist/
+
+# macOS
+.DS_Store
